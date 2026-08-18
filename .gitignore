@@ -2,3 +2,4 @@
 **/saved_summary_model/
 **/vector_store/
 *.safetensors
+.env
